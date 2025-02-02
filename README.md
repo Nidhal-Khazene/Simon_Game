@@ -1,5 +1,5 @@
 # Simon Game
-
+! [try the game] (https://simon-game-ndhl-khzn.netlify.app/)
 ## Description
 
 The Simon Game is a simple memory-based game where players must repeat an increasing sequence of colors by clicking the corresponding buttons. Each round, a new color is added to the sequence, challenging the player's memory and reaction speed.
